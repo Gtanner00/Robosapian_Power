@@ -1,0 +1,16 @@
+# backup files
+*.bak
+*.sch-bak
+*.kicad_pcb-bak
+_autosave-*
+
+# cache
+*cache.lib
+*-cache
+
+# lib-tables
+fp-lib-table
+sym-lib-table
+
+# generated footprint library
+gen-kicad-footprints*
